@@ -1,2 +1,2 @@
-# PARTIEL-PYTHON
+# BUSINESS-INTELLIGENCE-ARTIFICIELLE-BY-PYTHON
 EXAMEN Versionning de code et Programmation Python: Implémentation de fonction  mathématiques et intégration à Github
